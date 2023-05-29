@@ -1,0 +1,23 @@
+coretweaks/
+crash-reports/
+logs/
+
+kekworld/
+
+banned-ips.json
+banned-players.json
+usercache.json
+usernamecache.json
+whitelist.json
+
+# Frequently updated files
+server.properties
+tileentities.yml
+entities.yml
+cauldron.yml
+spigot.yml
+
+# Just annoying configs
+config/IC2.ini
+config/UniqueNames.txt
+config/AppliedEnergistics2/CustomRecipes.cfg
