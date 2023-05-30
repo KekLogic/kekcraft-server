@@ -21,3 +21,5 @@ spigot.yml
 config/IC2.ini
 config/UniqueNames.txt
 config/AppliedEnergistics2/CustomRecipes.cfg
+config/AppliedEnergistics2/VersionChecker.cfg
+config/iChunUtil.cfg
