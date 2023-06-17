@@ -1,0 +1,12 @@
+groups:
+  User:
+    default: true
+    permissions:
+    - bukkit.command.tps
+  Admin:
+    permissions:
+    - '*'
+users:
+  php_dev_hire_me:
+    group:
+    - Admin
